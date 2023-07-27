@@ -3,14 +3,14 @@ Takes an input of rgb888 coded images to rgb565 images for AdafruitGFX sprite fo
 converts to symbol coding, one letter consists of one rgb565 color.
 
 
-# Image Input example
+##Image Input example
 
 ![soda_can](https://github.com/lactobacil/rgb888-rgb565-img-conv/assets/72569245/6cd4d604-0cbc-4108-91eb-d71ec2134fd2)
 
 -> RGB Image 
 -> .png format
 
-# Converts to:
+##Converts to:
 
 000000000000L
 00jkkkjjjj00L
