@@ -1,4 +1,4 @@
-# rgb888-rgb565-img-conv
+# rgb888 to rgb565 image converter for Adafruit GFX Library
 Takes an input of rgb888 coded images to rgb565 images for AdafruitGFX sprite formatting convention in python script. 
 converts to symbol coding, one letter consists of one rgb565 color.
 
